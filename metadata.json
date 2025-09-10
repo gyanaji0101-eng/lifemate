@@ -1,0 +1,8 @@
+{
+  "name": "LifeMate: Your Daily Personal Assistant",
+  "description": "Your all-in-one personal assistant for daily life. Manage shopping lists, track expenses, get weather updates, read your horoscope, keep a journal, find home remedies, and check local market rates. Offline-first and multi-language.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
